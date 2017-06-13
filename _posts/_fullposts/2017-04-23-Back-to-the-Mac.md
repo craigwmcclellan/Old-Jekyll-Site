@@ -1,7 +1,6 @@
 ---
 title: Back to the Mac
 layout: post
-categories: posts
 date: 2017-04-23 21:38:40 -0500
 ---
 

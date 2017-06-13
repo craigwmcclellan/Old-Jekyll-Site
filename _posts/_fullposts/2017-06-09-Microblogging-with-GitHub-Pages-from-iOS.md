@@ -1,7 +1,6 @@
 ---
 title: Microblogging with GitHub Pages from iOS
 layout: post
-categories: posts
 date: 2017-06-09 09:12:41 -0500
 ---
 

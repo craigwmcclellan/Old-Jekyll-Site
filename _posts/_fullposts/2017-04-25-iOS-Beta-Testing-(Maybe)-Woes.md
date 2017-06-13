@@ -1,7 +1,6 @@
 ---
 title: iOS Beta Testing (Maybe) Woes
 layout: post
-categories: posts
 date: 2017-04-25 14:32:29 -0500
 ---
 

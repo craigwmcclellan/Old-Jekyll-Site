@@ -1,7 +1,6 @@
 ---
 title: The Hunt for an Email Client
 layout: post
-categories: posts
 date: 2017-05-22 11:26:48 -0500
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: WWDC iPad Hardware Guesses
 layout: post
-categories: posts
 date: 2017-06-02 20:15:53 -0500
 ---
 

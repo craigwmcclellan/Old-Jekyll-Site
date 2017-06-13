@@ -2,7 +2,6 @@
 title: The Future of Workflow – MacStories
 date: 2017-03-30 11:03:14 -0500
 layout: linkedpost
-categories: posts
 link: https://www.macstories.net/stories/the-future-of-workflow/#a-bigger-idea-workflowkit
 ---
 

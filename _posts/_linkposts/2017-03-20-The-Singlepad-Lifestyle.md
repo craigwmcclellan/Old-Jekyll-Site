@@ -2,7 +2,6 @@
 title: The Singlepad Lifestyle?
 date: 2017-03-20 08:46:57 -0500
 layout: linkedpost
-categories: posts
 link: https://theclassnerd.com/the-singlepad-lifestyle-6009b2595f84#.olzso9xsv
 ---
 

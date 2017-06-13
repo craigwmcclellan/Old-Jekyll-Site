@@ -1,7 +1,6 @@
 ---
 title: 30 Years and a New Website
 layout: post
-categories: posts
 date: 2017-03-13
 ---
 
